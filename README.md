@@ -1,5 +1,9 @@
 ### Olá eu sou o Rafael Dias ✌️
 
+## Em transição de carreira para a tecnologia, empolgado com as inúmeras possibilidades e caminhos que esse mundo nos permite.
+
+## Fintechs e empresas voltadas pro consumo(bebidas e alimentos) são meus ramos favoritos. 
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rafael_moraes_88)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelmdias88/)
